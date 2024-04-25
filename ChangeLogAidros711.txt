@@ -1,1 +1,1 @@
-{'ver1':'24', 'ver2':'97', 'ver3':'\n• [تحديث جديد].\n• يحتوي على العديد من الميزات الجديدة الرائعة.\n• إصلاحات وتحسينات أكثر أهمية.\ n• [تحديث جديد ممتع].\n• يحتوي على العديد من الأغراض الجديدة الرائعة.\n• اقرأ إصلاحات سليمات مهمة أخرى.\n' , 'dli':'https://t.me/Aehabbb'}
+{'ver1':'25', 'ver2':'99', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep ABNWhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://t.me/Aehabbb'}
