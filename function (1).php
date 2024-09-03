@@ -4,7 +4,7 @@ define("TOKEN",$TOKEN);
 
 function bot($method,$datas=[]){
     $iBadlz = http_build_query($datas);
-        $url = "https://api.telegram.org/bot".TOKEN."/".$method."?$iBadlz";
+        $url = "https://api.telegram.org/bot".TOKEN."6021391176:AAG_aTQzUGtxrPJp62I6hrk9OMAzvN_rQPs".$method."?$iBadlz";
         $iBadlz = file_get_contents($url);
         return json_decode($iBadlz);
 }
@@ -44,7 +44,7 @@ function SendChatAction($chat_id,$action){
 function SendMessage($chat_id,$text,$parse_mode="MARKDOWN",$disable_web_page_preview=true,$reply_to_message_id=null,$reply_markup=null){
     return bot('sendMessage',[
 	'chat_id'=>$chat_id,
-	'text'=>$text."\n 👇قناة المطور الاساسي 👇\n".'@salehalzahiri',
+	'text'=>$text."\n 👇قناة المطور الاساسي 👇\n".'@Aehabbb',
 	'parse_mode'=>$parse_mode,
 	'disable_web_page_preview'=>$disable_web_page_preview,
 	'disable_notification'=>false,
