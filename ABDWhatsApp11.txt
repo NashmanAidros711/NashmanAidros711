@@ -1,0 +1,1 @@
+5||https://api.whatsapp.com/send?phone=+966597100181||https://api.whatsapp.com/send?phone=+966597100181
